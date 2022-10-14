@@ -485,7 +485,7 @@ footer {
   .project {
     margin: 0 auto;
   }
-  
+
   .project__description--para {
     font-size: 14px;
   }
@@ -495,12 +495,12 @@ footer {
     padding-right: 30px;
   }
 
+  .project__wrapper {
+    border-radius: 5px;
+  }
+
   .project__list {
     padding: 16px;
-  }
-  
-  .project__wrapper {
-    border-radius: 20px;
   }
 }
 
@@ -511,7 +511,7 @@ footer {
   }
 
   .project__wrapper {
-    border-radius: 0;
+    border-radius: 5px;
   }
 
   .project__description {
